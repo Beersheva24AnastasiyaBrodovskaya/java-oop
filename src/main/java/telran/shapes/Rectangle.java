@@ -18,5 +18,4 @@ public class Rectangle implements Shape {
     public int square() {
         return width * height;
     }
-
 }
